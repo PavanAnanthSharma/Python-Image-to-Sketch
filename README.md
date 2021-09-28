@@ -15,9 +15,11 @@ In Python, an image is just a two-dimensional array of integers. So one can do a
 
 >Approach 1:
 
-1.Import all required modules (numpy, imageio, scipy.ndimage, OpenCV)
-2.Take Image input
-3.Check RGB value of image and convert into according to RGB values
-4.Show finale image output using cv2.imwrite()
+* Import all required modules (numpy, imageio, scipy.ndimage, OpenCV).
+* Take Image input.
+* Check RGB value of image and convert into according to RGB values.
+* Show finale image output using cv2.imwrite().
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
