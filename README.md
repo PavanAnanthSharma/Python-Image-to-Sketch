@@ -27,7 +27,7 @@ In Python, an image is just a two-dimensional array of integers. So one can do a
 ```
 pip install cv2
 ```
-* Then we will import cv2 inside our code, after that, we will use some of the following functions, so we use ``` import * from cv2``` or ``` import cv2```
+* Then we will import cv2 inside our code, after that, we will use some of the following functions, so we use ```  import * from cv2``` or ``` import cv2```
 *  imread()- This function will load the image i.e in the specified folder. 
 *  cvtColor()- This function takes color as an argument and then changes the source image color into that color.
 *  bitwise_not()- This function will help the image to keep the properties as same by providing the masking to it.
@@ -36,4 +36,29 @@ pip install cv2
 *  Finally will save the image using imwrite() function.
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+>Conclusion:
+
+Lets hope you have enjoyed this tutorial, so make sure u follow me here on GitHub and also on my instagram
+
+Credits: ```https://www.geeksforgeeks.org/```
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
